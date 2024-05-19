@@ -25,4 +25,4 @@
     <img align="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white2"/> 
 </div><br/>
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas, estou focado em adquirir e aprimorar habilidades essenciais para a criação de interfaces web dinâmicas e responsivas. Possuo conhecimento em HTML, CSS e JavaScript, além de estar constantemente evoluindo meu domínio em frameworks modernos como React.js e ferramentas populares como Bootstrap. 💪🏻⚙️
+Atualmente cursando Análise e Desenvolvimento de Sistemas, estou focado em adquirir e aprimorar habilidades essenciais para a criação de interfaces web dinâmicas e responsivas. Possuo conhecimento em HTML, CSS e JavaScript, além de estar constantemente evoluindo meu domínio em frameworks modernos como React.js e ferramentas populares como Bootstrap. 
