@@ -2,9 +2,9 @@
 # Seja Bem vindo(a)!
 # Olá, sou o Marco Valadares!
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas. Desde que iniciei minha jornada na área de tecnologia, venho me dedicando ao estudo e pratica de HTML, CSS e JavaScript, habilidades nas quais tenho me aprofundado continuamente. Estou sempre em buscas de novos conhecimentos e oportunidades para aplicar e expandir minhas habilidades 
+## ✨ O que você encontra aqui?
 
-
+Meu portfólio está repleto de projetos que refletem minha jornada como desenvolvedor. Cada linha de código é um pedaço do meu aprendizado e dedicação! Atualmente, meus projetos utilizam principalmente HTML , CSS e JavaScript , além de um toque de Bootstrap para layouts responsivos e elegantes.
 
 
 
