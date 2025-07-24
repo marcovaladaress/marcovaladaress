@@ -2,19 +2,19 @@
 <h2 align="center">👨🏻‍💻&nbsp; Seja Bem vindo(a)</h2>
 <h1 align="center "> Olá, eu sou o Marco Valadares, desenvolvedor Frontend com propósito: design, performance e acessibilidade!</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/marcoaureliovaladares">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-    &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/marcofernandess_?igsh=MTRtMzY4NWQ2dXFneA%3D%3D&utm_source=qr">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-    &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/marcovaladaress">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/marco-aur%C3%A9lio-valadares/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/marcofernandess_?igsh=MTRtMzY4NWQ2dXFneA%3D%3D&utm_source=qr)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+)](https://github.com/marcovaladaress)
+[![Github](https://img.shields.io/badge/marcovf99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](mailto:marcovf99@gmail.com)
+  
+</div>
+
 <h2>👨🏻‍💻&nbsp; About Me</h2>
 - 👨🏻‍💻&nbsp; Iniciei na programação em 2023, como muitos desenvolvedores, aprendendo as bases com HTML, CSS e JavaScript. Com essas tecnologias, criei minhas primeiras aplicações web e desenvolvi um forte interesse por interfaces bem construídas e funcionais. Sou estudante do penúltimo semestre do curso de Análise e Desenvolvimento de Sistemas, e sigo evoluindo constantemente.
 &nbsp;
