@@ -3,7 +3,7 @@
 <h1 align="center "> Olá, eu sou o Marco Valadares, desenvolvedor Frontend com propósito: design, performance e acessibilidade!</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marco-aur%C3%A9lio-valadares/">
+  <a href="https://www.linkedin.com/in/marcoaureliovaladares">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
     &nbsp;&nbsp;&nbsp;
