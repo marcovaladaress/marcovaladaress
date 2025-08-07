@@ -88,8 +88,6 @@
 
 <br>
 
-### 🔥 Contribuições seguidas:
-<img src="https://streak-stats.demolab.com/?user=marcovaladaress&theme=dark&locale=pt_BR" width="480"/>
 
 </div>
 
