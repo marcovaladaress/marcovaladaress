@@ -1,97 +1,33 @@
+# Marco Valadares
 
-<h2 align="center">👨🏻‍💻&nbsp; Seja Bem vindo(a)</h2>
-<h1 align="center "> Olá, eu sou o Marco Valadares, desenvolvedor Frontend com propósito: design, performance e acessibilidade!</h1>
+**Desenvolvedor Full Stack Júnior** · Next.js · React · TypeScript · Node.js · PostgreSQL
 
-<div align="center">
-  
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/marcoaureliovaladares)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/marcovaladaress?igsh=MTRtMzY4NWQ2dXFneA%3D%3D&utm_source=qr)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-)](https://github.com/marcovaladaress)
-[![Github](https://img.shields.io/badge/marcovf99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](mailto:marcovf99@gmail.com)
-  
-</div>
+São Luís – MA · Aberto a vagas remotas, híbridas ou presenciais em São Luís
 
-<h2>👨🏻‍💻&nbsp; About Me</h2>
-- 👨🏻‍💻&nbsp; Iniciei na programação em 2023, como muitos desenvolvedores, aprendendo as bases com HTML, CSS e JavaScript. Com essas tecnologias, criei minhas primeiras aplicações web e desenvolvi um forte interesse por interfaces bem construídas e funcionais. Sou estudante do penúltimo semestre do curso de Análise e Desenvolvimento de Sistemas, e sigo evoluindo constantemente.
-&nbsp;
-&nbsp;
+[LinkedIn](https://www.linkedin.com/in/marcoaureliovaladares) · [Portfólio](https://www.marcovsfernandes.com) · contato@marcovsfernandes.com
 
--💙&nbsp; Atualmente, estou me aprofundando em ferramentas como Tailwind CSS, TypeScript e Node.js, explorando o universo do back-end e desenvolvendo aplicações completas com bancos de dados como MongoDB e NeonDB
+## Sobre
 
-<h2>🛠️&nbsp;Tech Stack</h2>
+Desenvolvo sozinho o **DocJuri**, um SaaS de gestão de contratos jurídicos em produção com um cliente: 11 telas, 60 Server Actions, 18 tabelas no PostgreSQL, arquitetura multi-tenant e versionamento completo de contratos e aditivos.
 
-<h3>🖥️ &nbsp;Front-end:</h3>
+Em paralelo, construo o **Movit**, uma API REST em Node.js com Fastify, validação com Zod e documentação com Swagger (OpenAPI), organizada pelo Princípio da Responsabilidade Única (SRP) e consumida por um front-end em Next.js.
 
-![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=E34F26)
-&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=1572B6)
-&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=3178C6)
-&nbsp;
-![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=61DAFB)
-&nbsp;
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=next.js&logoColor=white)
-&nbsp;
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-333333?style=for-the-badge&logo=shadcnui&logoColor=white)
+Antes da tecnologia, trabalhei 2 anos e 4 meses em obras de infraestrutura, com medição de produção e controle de materiais.
 
+Tecnólogo em Análise e Desenvolvimento de Sistemas (Estácio, 2026).
 
+## Projetos em destaque
 
-<h3>🖥️ &nbsp;Back-end:</h3>
+| Projeto | O que é | Stack |
+|---|---|---|
+| [DocJuri](https://github.com/marcovaladaress/docjuri-showcase) | SaaS de gestão de contratos jurídicos em produção. Código privado; o link leva à apresentação do projeto | Next.js, TypeScript, PostgreSQL, BetterAuth, AWS |
+| Movit | API REST para gestão de treinos, em desenvolvimento. Código ainda não publicado | Node.js, Fastify, Zod, Swagger, Next.js |
+| [Stockly](https://github.com/marcovaladaress/STOCKLY) | Controle de estoque e vendas · [demo](https://stockly-7z3j.vercel.app) | Next.js, TypeScript, PostgreSQL, Prisma, Zod |
+| [Bewear](https://github.com/marcovaladaress/Bewear) | E-commerce desenvolvido no curso Full Stack Club | Next.js, Better Auth, Drizzle, PostgreSQL |
 
-![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=47A248)
-&nbsp;
-![NeonDB](https://img.shields.io/badge/NeonDB-333333?style=for-the-badge&logo=postgresql&logoColor=3B82F6)
-&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-&nbsp;
+## Stack
 
-<h3>⚙️&nbsp;ORMS:</h3>
-
-![Drizzle ORM](https://img.shields.io/badge/drizzle-333333?style=for-the-badge&logo=drizzle&logoColor=white)
-&nbsp;
-![Prisma](https://img.shields.io/badge/Prisma-333333?style=for-the-badge&logo=prisma&logoColor=white)
-
-
-
-
-
-
-<h2>🛠️&nbsp;Ferramentas</h2>
-
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Cursor.io](https://img.shields.io/badge/Cursor.io-333333?style=for-the-badge&logo=cursor&logoColor=FFFFFF)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-333333?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=F05032)
-
-
-## 🚀 Minhas Estatísticas no GitHub
-
-<div align="center">
-
-### 📊 Linguagens mais usadas:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcovaladaress&layout=compact&theme=github_dark" width="480"/>
-
-<br>
-
-### 📈 Estatísticas gerais:
-<img src="https://github-readme-stats.vercel.app/api?username=marcovaladaress&show_icons=true&theme=github_dark&locale=pt-br" width="480"/>
-
-<br>
-
-
-</div>
-
-
-
-
- Obrigado por me visitar 👋🏻!
+- **Front-end:** Next.js (App Router, Server Components, Client Components, Server Actions), React, TypeScript, JavaScript, Tailwind CSS, shadcn/ui
+- **Back-end:** Node.js, Fastify, APIs REST, Zod, Swagger/OpenAPI, BetterAuth
+- **Banco de dados:** PostgreSQL, Prisma, Drizzle
+- **Ferramentas:** Git, GitHub, Vercel, AWS (S3)
