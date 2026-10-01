@@ -20,7 +20,7 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas (Estácio, 2026).
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [DocJuri](https://github.com/marcovaladaress/docjuri-showcase) | SaaS de gestão de contratos jurídicos em produção. Código privado; o link leva à apresentação do projeto | Next.js, TypeScript, PostgreSQL, BetterAuth, AWS |
+| [DocJuri](https://github.com/marcovaladaress/docjuri-showcase) | SaaS de gestão de contratos jurídicos em produção. Código privado; o link leva à apresentação do projeto | Next.js, TypeScript, PostgreSQL, Drizzle ORM, BetterAuth, AWS |
 | Movit | API REST para gestão de treinos, em desenvolvimento. Código ainda não publicado | Node.js, Fastify, Zod, Swagger, Next.js |
 | [Stockly](https://github.com/marcovaladaress/STOCKLY) | Controle de estoque e vendas · [demo](https://stockly-7z3j.vercel.app) | Next.js, TypeScript, PostgreSQL, Prisma, Zod |
 | [Bewear](https://github.com/marcovaladaress/Bewear) | E-commerce desenvolvido no curso Full Stack Club | Next.js, Better Auth, Drizzle, PostgreSQL |
